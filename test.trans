@@ -1,0 +1,14 @@
+"This is an example.":
+  en_US: "This is an example."
+  en_GB: "This is an example."
+  es: "Este es un ejemplo."
+  zh_TW: "這是一個例子。"
+  ar: "وهذا مثال."
+  th: "นี้เป็นตัวอย่าง"
+
+"This is a second example.":
+  th: "นี่เป็นอีกตัวอย่างหนึ่ง"
+  hy: "Սա եւս մեկ օրինակ."
+  af: "Dit is nog 'n voorbeeld."
+  eu: "Honen beste adibide bat da."
+  sw: "Huu ni mfano mwingine."
