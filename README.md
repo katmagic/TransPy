@@ -60,3 +60,9 @@ The upper level keys ("This is an example." and "This is a second example.") are
 the strings one uses in one's program, and the lower-level keys are language
 codes. It is important to note is that YAML is sensitive to indentation, and
 *does not allow you to use tabs*.
+
+License
+-------
+
+This is free and unencumbered software released into the public domain. For more
+information, see [unlicense.org](http://unlicense.org).
