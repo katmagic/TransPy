@@ -1,7 +1,13 @@
 #!/usr/bin/env python
+# Encoding: UTF-8
 from __future__ import unicode_literals
 import transpy
 import unittest
+
+try:
+	str = unicode
+except:
+	pass
 
 class TranslationTest(unittest.TestCase):
 	def testTranslation(self):
