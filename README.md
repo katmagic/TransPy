@@ -39,7 +39,8 @@ Writing Translation Files
 -------------------------
 
 The format for translation files is pretty simple. A translation file is just a
-YAML document. An example translation file might look something like this.
+YAML document (encoded in UTF-8). An example translation file might look
+something like this.
 
 	"This is an example.":
 	  en_US: "This is an example."
